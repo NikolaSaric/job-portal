@@ -1,0 +1,21 @@
+.center {
+    margin: auto;
+    width: 30%;
+    border: 3px;
+    padding: 10px;
+  }
+
+  .button-center{
+    width: 100%;
+    text-align:center;
+    height: 50px;
+    font-size: large;
+ }
+
+ .field-full-width {
+     width: 100%;
+ }
+
+ .span-spacer {
+  flex: 1 1 auto;
+}
